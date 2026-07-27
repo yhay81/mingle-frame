@@ -1,0 +1,17 @@
+{
+  "name": "Mingle Frame",
+  "short_name": "Mingle Frame",
+  "description": "交流用の自己紹介カードを端末内で作る。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e9e8e2",
+  "theme_color": "#1b211f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

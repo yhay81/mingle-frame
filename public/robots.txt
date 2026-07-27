@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mingle-frame.yusuke8h.workers.dev/sitemap.xml
